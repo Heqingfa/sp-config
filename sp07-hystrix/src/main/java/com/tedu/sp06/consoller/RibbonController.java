@@ -32,7 +32,7 @@ public class RibbonController {
 		return rt.postForObject("http://item-service/decreaseNumber", items, JsonResult.class);
 	}
 
-	
+	//大大撒旦 大大大
 	/////////////////////////////////////////
 	
 	@GetMapping("/user-service/{userId}")
